@@ -92,7 +92,7 @@ def changeChromosome(li):
 
 
 if __name__ == "__main__":
-    print("Enter number of solution you want: )
+    print("Enter number of solution you want: ")
     numberOfSolutions = int(input())
     solutions = []
     crossover = 4                           # Crossover point
